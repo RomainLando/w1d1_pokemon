@@ -1,1 +1,4 @@
 flamethrower
+ember
+quick attack
+scratch
